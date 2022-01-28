@@ -1,0 +1,21 @@
+.table {
+    width: 100%;
+    text-align: left;
+}
+
+.table th{
+    height: 40px;
+    background-color: mistyrose;
+    font-size: 20px;
+    padding-left: 10px;
+}
+
+.table td{
+    height: 40px;
+    font-size: 17px;
+    padding-left: 10px;
+}
+
+
+
+

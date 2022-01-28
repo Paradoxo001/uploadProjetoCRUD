@@ -1,0 +1,4 @@
+-Manipulação e obtenção de dados do arquivo "home.html" (action/submit/request form)
+-Funcionamente dos botões (visualizar, editar, excluir e salvar)
+-Ligação entre MongoDB e rota de informações para manipulação dos dicionários/array/json
+-Exibição de novos dados obtidos no modal na table em "home.html"
